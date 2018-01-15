@@ -1,3 +1,2 @@
-class Room
-
+class Room < ActiveRecord::Base
 end
